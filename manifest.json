@@ -1,0 +1,10 @@
+{
+  "id": "open-in-vscode",
+  "name": "Open in VSCode",
+  "version": "1.0.0",
+  "minAppVersion": "0.12.0",
+  "description": "Right-click a folder in Obsidian and open it in Visual Studio Code.",
+  "author": "Josh Morris",
+  "authorUrl": "https://github.com/acrylicus/",
+  "isDesktopOnly": true
+}
